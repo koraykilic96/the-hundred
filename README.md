@@ -1,8 +1,12 @@
-# bulmaca-oyunu
+# the-hundred 
 
 ## Project setup
 ```
 npm install
+```
+
+```
+npm install --save vue-js-modal
 ```
 
 ### Compiles and hot-reloads for development
