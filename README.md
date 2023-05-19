@@ -5,10 +5,6 @@
 npm install
 ```
 
-```
-npm install --save vue-js-modal
-```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
