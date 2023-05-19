@@ -1,6 +1,7 @@
 # the-hundred 
 
 Oyuna ait görseller aşağıdadır.
+Oyunu indirmeden de oynayabimeniz için https://kilickoray.com.tr/the-hundred/index.html adresini ziyaret edebilirsiniz.
 
 ![1](https://github.com/koraykilic96/the-hundred/assets/79507990/e7057b13-5685-4b80-89bc-d44afe6e85c0)
 ![2](https://github.com/koraykilic96/the-hundred/assets/79507990/8cfa6154-ceec-4688-98a3-820acc7ab430)
